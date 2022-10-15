@@ -23,6 +23,7 @@ Para a elaboração do brinquedo, foi utilizado o sistema em Arduíno UNO R3, ju
 - Cartão micro SD;
 - Alto-falante;
 - Resistores.
+
 Para o funcionamento do brinquedo, o Arduíno foi programado em linguagem C++.
 
 ## 7. Projeto em Funcionamento
