@@ -8,10 +8,10 @@ O presente trabalho teve como proposta desenvolver um brinquedo cujo público al
 ## 3. Topologia
 <img src="https://media.discordapp.net/attachments/1002761960519110748/1030704805372510278/WhatsApp_Image_2022-10-15_at_01.37.02.jpeg?width=682&height=434" alt="Alt text" height="300" title="Optional title">
 
-## 5. Descrição de Funcionamento
+## 4. Descrição de Funcionamento
 A criança poderá brincar optando pelo manuseio com os botões ou com as alavancas que estarão ligadas ao arduino e farão com que os leds acendam e acionem o módulo DFPlayer mp3, assim emitindo o som de cada animal e iluminando-o.
 
-## 6. Requisitos de Hardware e Software
+## 5. Requisitos de Hardware e Software
 Para a elaboração do brinquedo, foi utilizado o sistema em Arduíno UNO R3, juntamente com:
 - Protoboard;
 - Jumpers;
@@ -26,5 +26,5 @@ Para a elaboração do brinquedo, foi utilizado o sistema em Arduíno UNO R3, ju
 
 Para o funcionamento do brinquedo, o Arduíno foi programado em linguagem C++.
 
-## 7. Projeto em Funcionamento
+## 6. Projeto em Funcionamento
 <img src="https://user-images.githubusercontent.com/112972031/195970565-3b3c9647-f518-4fcf-aba6-ea1a938b9324.mp4" alt="Alt text" height="300" title="Optional title">
