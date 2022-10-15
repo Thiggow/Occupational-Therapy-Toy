@@ -24,3 +24,6 @@ Para a elaboração do brinquedo, foi utilizado o sistema em Arduíno UNO R3, ju
 - Alto-falante;
 - Resistores.
 Para o funcionamento do brinquedo, o Arduíno foi programado em linguagem C++.
+
+## 7. Projeto em Funcionamento
+<img src="https://user-images.githubusercontent.com/112972031/195970565-3b3c9647-f518-4fcf-aba6-ea1a938b9324.mp4" alt="Alt text" height="300" title="Optional title">
