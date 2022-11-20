@@ -1,4 +1,4 @@
-# Brinquedo Terapia Ocupacional
+# Occupational Therapy Toy
 ## 1. Introduction
 Devido à determinadas limitações físicas e sensoriais, algumas crianças têm dificuldades em obter determinadas experiências que são de suma importância para o seu desenvolvimento e bem estar, como por exemplo: o contato com os animais. Portanto, é necessário que hajam brinquedos pensados e projetados que forneçam tais contatos e aprendizados de uma de forma adaptada e funcional.
 
